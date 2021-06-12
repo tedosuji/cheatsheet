@@ -1,5 +1,5 @@
 body {
-    background-color: grey;
+    background-color: lightgrey;
 }
 
 table{
@@ -16,4 +16,5 @@ td {
 
   .code {
       font-family: 'Courier New', Courier, monospace;
+      background-color: wheat;
   }
